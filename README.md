@@ -2,7 +2,7 @@
 
 # Gujarati Speech-to-Text
 
-This project implements a **Speech-to-Text** system for the **Gujarati language** using various libraries, including **speech recognition**, **pyttsx3** (text-to-speech), and **pydub** for audio processing. The system processes audio files, degrades the quality to simulate noisy conditions, and converts speech to text in Gujarati. Errors are intentionally introduced to simulate real-world recognition challenges.
+This project implements a **Speech-to-Text** system for the **Gujarati language** using various libraries, including **pyttsx3** (text-to-speech), and **pydub** for audio processing. The system processes audio files, degrades the quality to simulate noisy conditions, and converts speech to text in Gujarati. Errors are intentionally introduced to simulate real-world recognition challenges.
 
 This project implements a **Speech-to-Text** system specifically designed for the **Gujarati language** using **Recurrent Neural Networks (RNNs)** for enhanced accuracy. It processes speech data, converts it into text, and integrates features such as noise degradation and error simulation for a more robust solution.
 
@@ -10,7 +10,6 @@ This project implements a **Speech-to-Text** system specifically designed for th
 
 - **Speech Recognition**: Converts spoken Gujarati audio into text.
 - **Audio Degradation**: Lowers the audio quality to simulate noisy environments, making the recognition task more challenging.
-- **Text-to-Speech**: Converts recognized text back to speech in Gujarati.
 
 ## RNN Integration
 
